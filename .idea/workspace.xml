@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2670ef4-10e3-41d3-b92f-c260fe9140cd" name="Default Changelist" comment="" />
+    <list default="true" id="b2670ef4-10e3-41d3-b92f-c260fe9140cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/report.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/results/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/11_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/12_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/17_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/18_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/23_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/24_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/29_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/30_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/35_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/36_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/41_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/42_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/5_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/6_wirelessDevice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/results/installedApp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="140">
+              <caret line="71" column="21" lean-forward="true" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
               <folding>
                 <element signature="e#0#114#0" expanded="true" />
               </folding>
@@ -27,6 +75,16 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.kt" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
@@ -127,13 +185,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -141,7 +200,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3297587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -156,11 +215,23 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main.kt</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="140">
+          <caret line="71" column="21" lean-forward="true" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
           <folding>
             <element signature="e#0#114#0" expanded="true" />
           </folding>
